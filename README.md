@@ -2,7 +2,6 @@
 
 Tools used
 *phyton
-*pandas
 *scikit-learn
 *matplotlib
 *pickle
