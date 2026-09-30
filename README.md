@@ -1,4 +1,4 @@
-# new file using machine learning
+# new file using machine learning to find buyer output
 
 Tools used
 *phyton
